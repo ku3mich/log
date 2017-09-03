@@ -1,6 +1,6 @@
 {
   "name": "@ku3mich/log",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "winston wrapper for logging",
   "main": "index.js",
   "scripts": {
