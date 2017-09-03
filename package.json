@@ -1,0 +1,32 @@
+{
+  "name": "@ku3mich/log",
+  "version": "0.0.1",
+  "description": "winston wrapper for logging",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ku3mich/log.git"
+  },
+  "keywords": [
+    "winston",
+    "log",
+    "wrapper"
+  ],
+  "author": "Serhii Kuzmychov <ku3mich@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ku3mich/log/issues"
+  },
+  "homepage": "https://github.com/ku3mich/log#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "moment": "^2.18.1",
+    "winston": "^2.3.1"
+  },
+  "devDependencies": {
+    "@ku3mich/test": "0.0.6"
+  }
+}
